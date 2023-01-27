@@ -1,1 +1,1 @@
-# discord-javascript-ocr
+TOKEN in .env
